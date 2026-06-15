@@ -1,0 +1,2 @@
+class DbFunc:
+    pass
